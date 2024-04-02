@@ -23,3 +23,5 @@
     <img align="center" alt="icon-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
  <img align="center" alt="vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+![MareDevi](https://count.getloli.com/get/@ydsoftware1979?theme=moebooru-h)  
