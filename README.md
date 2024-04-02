@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydsoftware1979&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=oliveira-renato&theme=nord&column=7" >
 
 
 <div style="display: inline_block"><br>
