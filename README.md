@@ -5,6 +5,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydsoftware1979&hide=contribs,prs)
 
+<div align="center">
+  <a href="https://github.com/Keykrono">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ydsoftware1979&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydsoftware1979&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydsoftware1979&hide_progress=true)
