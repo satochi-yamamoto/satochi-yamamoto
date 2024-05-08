@@ -9,6 +9,7 @@
 </div>
 <div style="display: inline_block": align="center"><br>
 
+
   <img src="https://github-profile-trophy.vercel.app/?username=oliveira-renato&theme=nord&column=7" >
 
 </div>
