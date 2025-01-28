@@ -1,8 +1,10 @@
+## Alexandre Satochi Yamamoto
 
+Com mais de 12 anos de experiência na área de TI, sou Coordenador de Desenvolvimento, com foco em desenvolvimento e manutenção de sistemas, gerenciamento de projetos e gestão de equipe. Tenho ampla experiência em implantação de ERP, banco de dados e infraestrutura de TI, utilizando metodologias ágeis para alcançar resultados consistentes.
 
+Sou responsável por análise de sistemas, SQL, NET, e pela liderança de equipes na execução de projetos complexos. Minha atuação é pautada pela coordenação de desenvolvimento de software, garantindo eficiência operacional e conformidade com padrões de qualidade, sempre alinhado aos objetivos estratégicos do negócio.
 
-
-
+Apaixonado por tecnologia e inovação, trago resultados mensuráveis em redução de custos, melhoria de processos e entrega de soluções tecnológicas que agregam valor à organização.
 
 <strong>LinkedIn:</strong> <br>
 https://www.linkedin.com/in/alexyamamoto/ <br>
