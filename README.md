@@ -49,8 +49,7 @@ https://satochi.com.br/ <br>
 
 
 ## Languages & Tools •
-<div align="center">
-
+<div align="Left">
 
 ![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-05122A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -60,19 +59,15 @@ https://satochi.com.br/ <br>
 ![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
-
 ![Laravel](https://img.shields.io/badge/laravel-05122A?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
-
-
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/azure-05122A?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -88,8 +83,8 @@ https://satochi.com.br/ <br>
 ![Grafana](https://img.shields.io/badge/grafana-05122A?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-05122A?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
-  ![Nginx](https://img.shields.io/badge/nginx-05122A?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
-  ![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/nginx-05122A?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-05122A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-05122A?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
@@ -99,13 +94,7 @@ https://satochi.com.br/ <br>
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-05122A?style=for-the-badge&logo=github-copilot&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-05122A?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
-
 ![GitHub](https://img.shields.io/badge/github-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
-
-  
-
-
-
 
 </div>
