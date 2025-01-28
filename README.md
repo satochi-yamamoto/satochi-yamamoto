@@ -51,7 +51,7 @@ https://satochi.com.br/ <br>
 ## Languages & Tools •
 <div align="Left">
 
-### 📋 Front
+### 📚 Linguagem
 ![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-05122A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-05122A?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -59,8 +59,6 @@ https://satochi.com.br/ <br>
 ![PHP](https://img.shields.io/badge/php-05122A?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-
-### 📚 Back
 ![Laravel](https://img.shields.io/badge/laravel-05122A?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
