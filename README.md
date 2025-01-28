@@ -77,7 +77,7 @@ https://satochi.com.br/ <br>
 ![Redis](https://img.shields.io/badge/redis-05122A?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 
-### 🥅 Tools
+### 🔧 Tools
 ![NPM](https://img.shields.io/badge/NPM-05122A?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-05122A?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-05122A?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
