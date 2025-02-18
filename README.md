@@ -39,7 +39,7 @@ https://satochi.com.br/ <br>
 <div align="center">
   <a href="https://github.com/satochi-yamamoto/">
 
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&theme=transparent"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&theme=transparent"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satochi-yamamoto&layout=compact&theme=transparent"/>
 
    
