@@ -1,6 +1,6 @@
 ## Alexandre Satochi Yamamoto
 
-Com mais de 12 anos de experiência como Coordenador de Desenvolvimento e TI, com foco em desenvolvimento e manutenção de sistemas, Conta com atuações com gerenciamento de projetos e gestão de equipe. Possuo ampla experiência em implantação de ERP, banco de dados e infraestrutura de TI, utilizando metodologias ágeis para alcançar resultados consistentes.
+Com 25 ano de atuação em TI onde são 12 anos de experiência como Coordenador de Desenvolvimento e TI, com foco em desenvolvimento e manutenção de sistemas, Conta com atuações com gerenciamento de projetos e gestão de equipe. Possuo ampla experiência em implantação de ERP, banco de dados e infraestrutura de TI, utilizando metodologias ágeis para alcançar resultados consistentes.
 
 Realizei diversas análise de sistemas, bancos SQL, linguagem NET, e pela liderança de equipes na execução de projetos complexos. Minha atuação é pautada pela coordenação de desenvolvimento de software, garantindo eficiência operacional e conformidade com padrões de qualidade, sempre alinhado aos objetivos estratégicos do negócio.
 
