@@ -17,7 +17,6 @@ https://satochi.com.br/ <br>
 
 <div align="left">
 
-
    <a href="https://www.linkedin.com/in/alexyamamoto/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-05122A?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexyamamoto/" target="_blank"/>
     </a> 
