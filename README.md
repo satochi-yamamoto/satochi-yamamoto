@@ -92,7 +92,7 @@ https://satochi.com.br/ <br>
 ![React Native](https://img.shields.io/badge/react_native-05122A?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-05122A?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Docker-compose](https://img.shields.io/badge/docker-compose-05122A?style=for-the-badge&logo=docker-compose&logoColor=white)&nbsp;
+![Docker-compose](https://img.shields.io/badge/dockercompose-05122A?style=for-the-badge&logo=dockercompose&logoColor=white)&nbsp;
 ![jenkins](https://img.shields.io/badge/jenkins-05122A?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/grafana-05122A?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-05122A?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
