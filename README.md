@@ -100,7 +100,7 @@ https://satochi.com.br/ <br>
 ![Jira](https://img.shields.io/badge/jira-05122A?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/nginx-05122A?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
-![Traefik](https://img.shields.io/badge/traefik-05122A?style=for-the-badge&logo=traefik&logoColor=white)&nbsp;
+![traefik](https://img.shields.io/badge/traefik-05122A?style=for-the-badge&logo=traefik&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Notepad++](https://img.shields.io/badge/Notepad++-05122A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)&nbsp;
