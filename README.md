@@ -104,6 +104,7 @@ https://satochi.com.br/ <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-05122A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![N8N](https://img.shields.io/badge/n8n-05122A?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-05122A?style=for-the-badge&logo=github-copilot&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-05122A?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
