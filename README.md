@@ -72,12 +72,14 @@ https://satochi.com.br/ <br>
 ![Django](https://img.shields.io/badge/django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![LowCode](https://img.shields.io/badge/LowCode-05122A?style=for-the-badge&logo=LowCode&logoColor=white)&nbsp;
 
 ### ☁️ Cloud Storage
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/azure-05122A?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/render-05122A?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 
 ### 💾 Banco
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
