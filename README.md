@@ -83,7 +83,7 @@ https://satochi.com.br/ <br>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![REDIS](https://img.shields.io/badge/redis-05122A?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![POSTGRE](https://img.shields.io/badge/POSTGRE-05122A?style=for-the-badge&logo=POSTGRE&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-05122A?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-05122A?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
