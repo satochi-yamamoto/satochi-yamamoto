@@ -113,6 +113,7 @@ https://satochi.com.br/ <br>
 ![N8N](https://img.shields.io/badge/n8n-05122A?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 ![Whatsapp](https://img.shields.io/badge/whatsapp-05122A?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-05122A?style=for-the-badge&logo=github-copilot&logoColor=white)&nbsp;
+![GitHub actions](https://img.shields.io/badge/github-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-05122A?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 ### 🕓 Controle Versão
