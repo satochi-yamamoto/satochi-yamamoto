@@ -1,123 +1,95 @@
-## Alexandre Satochi Yamamoto
+# 👨‍💻 Alexandre Satochi Yamamoto
 
-Com 25 ano de atuação em TI onde destes são 12 anos de experiência como Coordenador de Desenvolvimento e TI, com foco em desenvolvimento e manutenção de sistemas, Conta com atuações com gerenciamento de projetos e gestão de equipe. Possuo ampla experiência em implantação de ERP, banco de dados e infraestrutura de TI, utilizando metodologias ágeis e Micros Serviços para alcançar resultados consistentes.
+🚀 Coordenador de Desenvolvimento de Software | Líder Técnico | Especialista em Soluções Inovadoras com IA e DevOps  
+📍 Barueri/SP, Brasil  
+📧 yamamoto@satochi.com.br  
+🌐 [satochi.com.br](https://satochi.com.br) | [LinkedIn](https://linkedin.com/in/alexyamamoto)
 
-Realizei diversos trabalhos com análise de sistemas, bancos de dados (SQL Server, Mysql e Oracle), linguagem .NET, e liderando equipes na execução de projetos complexos e críticos. Minha atuação é pautada pela coordenação na equipe no desenvolvimento de software nos mais variadas linguagem realizando Sprints e Reuniões Diarárias a fim de garantir eficiência operacional e conformidade com padrões de qualidade, sempre alinhado aos objetivos estratégicos do negócio da Empresa.
+---
 
-Apaixonado por tecnologia e inovação, trago resultados mensuráveis em redução de custos, melhoria de processos e entrega de soluções tecnológicas que agregam valor à organização.
+## 📌 Sobre Mim
 
-<strong>LinkedIn:</strong> <br>
-https://www.linkedin.com/in/alexyamamoto/ <br>
+Sou um profissional com **25 anos de experiência em Tecnologia da Informação**, sendo os últimos **12 anos em posições de liderança em times de desenvolvimento** e infraestrutura. Atuo com **gestão de projetos**, **modernização de sistemas**, **implantação de ERPs**, **DevOps**, e **metodologias ágeis** como Scrum e Kanban.  
 
- <strong>Presentation:</strong> <br>
-https://satochi.com.br/ <br>
+Minha trajetória envolve desde o desenvolvimento de aplicações full stack até a coordenação de squads multidisciplinares, entregando soluções robustas em ambientes **.NET, Laravel, Vue.js, Node.js e Python**. Com forte atuação em **bancos de dados (SQL Server, MySQL, PostgreSQL)**, sou movido por resultados mensuráveis e melhoria contínua de processos.  
 
-## Contact •
+Recentemente, tenho integrado **Inteligência Artificial (ChatGPT, Gemini, OCR)** em pipelines de automação, gerando ganhos significativos em produtividade. Acredito em tecnologia como catalisador de eficiência e inovação.
 
+---
+
+## 📁 Principais Projetos no GitHub
+
+- 🎯 **Automação com n8n + WhatsApp + GLPI**  
+  → Workflow de abertura e gestão de chamados via WhatsApp com integração ao GLPI.
+
+- 📊 **Painel de Indicadores com Power BI + Laravel + Vue.js**  
+  → Plataforma de visualização de dados integrando backend Laravel com frontend Vue.
+
+- 🧠 **Aplicação com IA para Propostas Comerciais**  
+  → Micro SaaS com GPT para geração dinâmica de propostas para MEIs.
+
+- 🔒 **Monitoramento com Prometheus, Grafana e Alertmanager**  
+  → Ambiente Dockerizado para monitoramento de aplicações web com alertas automáticos.
+
+*Acesse meus repositórios e explore soluções completas em desenvolvimento, DevOps e IA.*
+
+---
+
+## 📫 Contato
 
 <div align="left">
 
-   <a href="https://www.linkedin.com/in/alexyamamoto/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-05122A?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexyamamoto/" target="_blank"/>
-    </a> 
-  <a href="mailto:yamamoto@satochi.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-EMAIL-05122A?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-  </a>
-  <a href="https://satochi.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-05122A?style=for-the-badge&logo=OpenProject&logoColor=white"/>
-  </a>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-05122A?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexyamamoto)
+[![Email Badge](https://img.shields.io/badge/-EMAIL-05122A?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:yamamoto@satochi.com.br)
+[![Portfolio Badge](https://img.shields.io/badge/-PORTFOLIO-05122A?style=for-the-badge&logo=OpenProject&logoColor=white)](https://satochi.com.br)
 
 </div>
 
+---
 
-
-<hr>
-
-## Statistic •
+## 📈 GitHub Insights
 
 <div align="center">
-  <a href="https://github.com/satochi-yamamoto/">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&theme=transparent"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satochi-yamamoto&layout=compact&theme=transparent"/>
-</div> <br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satochi-yamamoto&layout=compact&theme=transparent"/>
+</div>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satochi-yamamoto&theme=flat&column=7" alt="GitHub Trophies"/>
 </div>
-<hr>
 
-## Statistic admintoshi2017 •
+---
 
-<div align="center">
-  <a href="https://github.com/admintoshi2017/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=admintoshi2017&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admintoshi2017&layout=compact&theme=dark"/>
-</div> <br>
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=admintoshi2017&theme=flat&column=7" alt="GitHub Trophies"/>
-  </div>
-<hr>
+## 🛠️ Tecnologias & Ferramentas
 
-## Languages & Tools •
-<div align="Left">
+**Linguagens:**  
+![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/php-05122A?style=for-the-badge&logo=php)&nbsp;
+![C#](https://img.shields.io/badge/csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 
-### 📚 Linguagem
-![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-05122A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-05122A?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-05122A?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![PHP](https://img.shields.io/badge/php-05122A?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-05122A?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-05122A?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![LowCode](https://img.shields.io/badge/LowCode-05122A?style=for-the-badge&logo=LowCode&logoColor=white)&nbsp;
+**Frameworks:**  
+![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=for-the-badge&logo=vue.js)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-05122A?style=for-the-badge&logo=laravel)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=dotnet)&nbsp;
 
-### ☁️ Cloud Storage
-![AWS](https://img.shields.io/badge/AWS-05122A?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/azure-05122A?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Render](https://img.shields.io/badge/render-05122A?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+**Banco de Dados:**  
+![MySQL](https://img.shields.io/badge/mysql-05122A?style=for-the-badge&logo=mysql)&nbsp;
+![SQL Server](https://img.shields.io/badge/sqlserver-05122A?style=for-the-badge&logo=microsoftsqlserver)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 
-### 💾 Banco
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![REDIS](https://img.shields.io/badge/redis-05122A?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-05122A?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-05122A?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-05122A?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+**DevOps & Cloud:**  
+![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/github_actions-05122A?style=for-the-badge&logo=github)&nbsp;
+![AWS](https://img.shields.io/badge/aws-05122A?style=for-the-badge&logo=amazonaws)&nbsp;
 
-### 🔧 Tools
-![NPM](https://img.shields.io/badge/NPM-05122A?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/opencv-05122A?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/react_native-05122A?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Yarn](https://img.shields.io/badge/yarn-05122A?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Docker-compose](https://img.shields.io/badge/dockercompose-05122A?style=for-the-badge&logo=dockercompose&logoColor=white)&nbsp;
-![jenkins](https://img.shields.io/badge/jenkins-05122A?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
-![Grafana](https://img.shields.io/badge/grafana-05122A?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-05122A?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-05122A?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/nginx-05122A?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
-![traefik](https://img.shields.io/badge/traefik-05122A?style=for-the-badge&logo=traefik&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-05122A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-05122A?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-05122A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![N8N](https://img.shields.io/badge/n8n-05122A?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
-![Whatsapp](https://img.shields.io/badge/whatsapp-05122A?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-05122A?style=for-the-badge&logo=github-copilot&logoColor=white)&nbsp;
-![GitHub actions](https://img.shields.io/badge/github_actions-05122A?style=for-the-badge&logo=github_actions&logoColor=white)&nbsp;
-![ChatGPT](https://img.shields.io/badge/chatGPT-05122A?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+**IA & Automação:**  
+![ChatGPT](https://img.shields.io/badge/chatgpt-05122A?style=for-the-badge&logo=openai)&nbsp;
+![n8n](https://img.shields.io/badge/n8n-05122A?style=for-the-badge&logo=n8n)&nbsp;
+![Power BI](https://img.shields.io/badge/powerbi-05122A?style=for-the-badge&logo=powerbi)&nbsp;
 
-### 🕓 Controle Versão
-![GitHub](https://img.shields.io/badge/github-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+---
 
-</div>
+✨ *Sigo evoluindo continuamente como tech leader e entusiasta de IA aplicada. Me acompanhe aqui ou no LinkedIn!*
