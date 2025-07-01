@@ -17,23 +17,6 @@ Recentemente, tenho integrado **Inteligência Artificial (ChatGPT, Gemini, OCR)*
 
 ---
 
-## 📁 Principais Projetos no GitHub
-
-- 🎯 **Automação com n8n + WhatsApp + GLPI**  
-  → Workflow de abertura e gestão de chamados via WhatsApp com integração ao GLPI.
-
-- 📊 **Painel de Indicadores com Power BI + Laravel + Vue.js**  
-  → Plataforma de visualização de dados integrando backend Laravel com frontend Vue.
-
-- 🧠 **Aplicação com IA para Propostas Comerciais**  
-  → Micro SaaS com GPT para geração dinâmica de propostas para MEIs.
-
-- 🔒 **Monitoramento com Prometheus, Grafana e Alertmanager**  
-  → Ambiente Dockerizado para monitoramento de aplicações web com alertas automáticos.
-
-*Acesse meus repositórios e explore soluções completas em desenvolvimento, DevOps e IA.*
-
----
 
 ## 📫 Contato
 
