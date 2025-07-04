@@ -17,7 +17,21 @@ Recentemente, tenho integrado **Inteligência Artificial (ChatGPT, Gemini, OCR)*
 
 ---
 
+## 📁 Principais Projetos no GitHub
 
+- 🎯 **microsaas-curriculo**  
+  → Projeto de um micro SAAS para criação de currículo.
+
+- 📊 **Gerador-propostas-MEIs**  
+  → Aplicação web para criação de propostas comerciais personalizadas para microempreendedores individuais..
+
+- 🧠 **Gerador-termos-politicas**  
+  →Este projeto é um gerador de documentos legais como Política de Privacidade.
+
+
+*Acesse meus repositórios e explore soluções completas em desenvolvimento, DevOps e IA.*
+
+---
 ## 📫 Contato
 
 <div align="left">
