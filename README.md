@@ -28,6 +28,8 @@ Recentemente, tenho integrado **Inteligência Artificial (ChatGPT, Gemini, OCR)*
 - 🧠 **Gerador-termos-politicas**  
   →Este projeto é um gerador de documentos legais como Política de Privacidade.
 
+- 🧠 **Marcador Gateball**  
+  →Projeto com a versão inicial em modo web para a realização da marcação do placar e tempo dos jogos da equipe de GateBall do Cooper Cotia.
 
 *Acesse meus repositórios e explore soluções completas em desenvolvimento, DevOps e IA.*
 
