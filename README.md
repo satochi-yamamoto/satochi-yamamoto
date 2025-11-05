@@ -1,37 +1,49 @@
-# 👨‍💻 Alexandre Satochi Yamamoto
+👨‍💻 Alexandre “Satochi” Yamamoto
 
-🚀 Coordenador de Desenvolvimento de Software | Líder Técnico | Especialista em Soluções Inovadoras com IA e DevOps  
-📍 Barueri/SP, Brasil  
-📧 yamamoto@satochi.com.br  
-🌐 [satochi.com.br](https://satochi.com.br) | [LinkedIn](https://linkedin.com/in/alexyamamoto)
+🚀 Coordenador de Desenvolvimento de Software | Tech Lead | Gestor de TI | Especialista em Cloud, DevOps e IA Generativa
+📍 Barueri/SP, Brasil
+📧 yamamoto@satochi.com.br
 
----
+🌐 satochi.com.br
+ | LinkedIn
 
-## 📌 Sobre Mim
+📌 Sobre Mim
 
-Sou um profissional com **25 anos de experiência em Tecnologia da Informação**, sendo os últimos **12 anos em posições de liderança em times de desenvolvimento** e infraestrutura. Atuo com **gestão de projetos**, **modernização de sistemas**, **implantação de ERPs**, **DevOps**, e **metodologias ágeis** como Scrum e Kanban.  
+Sou um profissional com mais de 25 anos de experiência em Tecnologia da Informação, com foco nos últimos 12 anos em liderança técnica, coordenação de equipes ágeis e gestão de projetos de inovação.
 
-Minha trajetória envolve desde o desenvolvimento de aplicações full stack até a coordenação de squads multidisciplinares, entregando soluções robustas em ambientes **.NET, Laravel, Vue.js, Node.js e Python**. Com forte atuação em **bancos de dados (SQL Server, MySQL, PostgreSQL)**, sou movido por resultados mensuráveis e melhoria contínua de processos.  
+Minha atuação combina engenharia de software, infraestrutura em nuvem (AWS, Azure, GCP) e automação DevOps (Docker, GitHub Actions, CI/CD) com práticas de governança, segurança da informação (ISO 27001) e transformação digital.
 
-Recentemente, tenho integrado **Inteligência Artificial (ChatGPT, Gemini, OCR)** em pipelines de automação, gerando ganhos significativos em produtividade. Acredito em tecnologia como catalisador de eficiência e inovação.
+Nos últimos anos, venho aplicando Inteligência Artificial Generativa (ChatGPT, Gemini, Claude, Qwen, Abacus AI, Z.ai) em fluxos de automação, otimização de processos e desenvolvimento de aplicações com No Code / Low Code / Vibe Code.
 
----
+Tenho experiência sólida com arquitetura de microsserviços, APIs RESTful, containers e observabilidade, além de gestão de times multidisciplinares (frontend, backend, mobile e infraestrutura).
+Sou movido por inovação, resultados mensuráveis e formação de equipes de alta performance, integrando tecnologia, estratégia e cultura organizacional.
 
-## 📁 Principais Projetos no GitHub
+📁 Principais Projetos
 
-- 🎯 **microsaas-curriculo**  
-  → Projeto de um micro SAAS para criação de currículo.
+🎯 microsaas-curriculo
+→ SaaS inteligente para criação de currículos profissionais com IA.
 
-- 📊 **Gerador-propostas-MEIs**  
-  → Aplicação web para criação de propostas comerciais personalizadas para microempreendedores individuais..
+🧠 Gerador de Termos e Políticas
+→ Aplicação que gera documentos legais personalizados (LGPD, Política de Privacidade, etc.).
 
-- 🧠 **Gerador-termos-politicas**  
-  →Este projeto é um gerador de documentos legais como Política de Privacidade.
+📊 Gerador de Propostas MEI
+→ Ferramenta web para criação de propostas comerciais para microempreendedores.
 
-- 🧠 **Marcador Gateball**  
-  →Projeto com a versão inicial em modo web para a realização da marcação do placar e tempo dos jogos da equipe de GateBall do Cooper Cotia.
+⚙️ Marcador Gateball
+→ App web para marcação de placar e tempo em partidas esportivas, desenvolvido com Vue.js e Node.js.
 
-*Acesse meus repositórios e explore soluções completas em desenvolvimento, DevOps e IA.*
+Acesse meus repositórios e explore soluções completas em Desenvolvimento, Cloud, DevOps e IA aplicada.
+
+🧩 Principais Competências
+
+Gestão & Liderança:
+Gestão de Projetos Ágeis (Scrum / Kanban) • Mentoria de Times • Planejamento Estratégico de TI • Cultura DevOps • Liderança Técnica
+
+Tecnologia & Arquitetura:
+Arquitetura de Software • Microsserviços • CI/CD • Cloud (AWS / Azure / GCP) • Segurança da Informação • APIs REST
+
+Desenvolvimento & IA:
+Python • Node.js • C# (.NET) • Vue.js • Laravel • SQL Server • PostgreSQL • Power BI • Automação com IA • LLM APIs (OpenAI, Gemini, Claude)
 
 ---
 ## 📫 Contato
