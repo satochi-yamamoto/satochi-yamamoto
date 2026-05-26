@@ -1,13 +1,14 @@
-👨‍💻 Alexandre “Satochi” Yamamoto
+# 👨‍💻 Alexandre “Satochi” Yamamoto
 
-🚀 Coordenador de Desenvolvimento de Software | Tech Lead | Gestor de TI | Especialista em Cloud, DevOps e IA Generativa
+🚀 **Coordenador de Desenvolvimento de Software | Tech Lead | Gestor de TI | Especialista em Cloud, DevOps e IA Generativa**
+
 📍 Barueri/SP, Brasil
-📧 yamamoto@satochi.com.br
+📧 [yamamoto@satochi.com.br](mailto:yamamoto@satochi.com.br)
+🌐 [satochi.com.br](https://satochi.com.br) | 💼 [LinkedIn](https://linkedin.com/in/alexyamamoto)
 
-🌐 satochi.com.br
- | LinkedIn
+---
 
-📌 Sobre Mim
+## 📌 Sobre Mim
 
 Sou um profissional com mais de 25 anos de experiência em Tecnologia da Informação, com foco nos últimos 12 anos em liderança técnica, coordenação de equipes ágeis e gestão de projetos de inovação.
 
@@ -18,31 +19,28 @@ Nos últimos anos, venho aplicando Inteligência Artificial Generativa (ChatGPT,
 Tenho experiência sólida com arquitetura de microsserviços, APIs RESTful, containers e observabilidade, além de gestão de times multidisciplinares (frontend, backend, mobile e infraestrutura).
 Sou movido por inovação, resultados mensuráveis e formação de equipes de alta performance, integrando tecnologia, estratégia e cultura organizacional.
 
-📁 Principais Projetos
+---
 
-🎯 microsaas-curriculo
-→ SaaS inteligente para criação de currículos profissionais com IA.
+## 📁 Principais Projetos
 
-🧠 Gerador de Termos e Políticas
-→ Aplicação que gera documentos legais personalizados (LGPD, Política de Privacidade, etc.).
-
-📊 Gerador de Propostas MEI
-→ Ferramenta web para criação de propostas comerciais para microempreendedores.
-
-⚙️ Marcador Gateball
-→ App web para marcação de placar e tempo em partidas esportivas, desenvolvido com Vue.js e Node.js.
+- 🎯 **microsaas-curriculo** → SaaS inteligente para criação de currículos profissionais com IA.
+- 🧠 **Gerador de Termos e Políticas** → Aplicação que gera documentos legais personalizados (LGPD, Política de Privacidade, etc.).
+- 📊 **Gerador de Propostas MEI** → Ferramenta web para criação de propostas comerciais para microempreendedores.
+- ⚙️ **Marcador Gateball** → App web para marcação de placar e tempo em partidas esportivas, desenvolvido com Vue.js e Node.js.
 
 Acesse meus repositórios e explore soluções completas em Desenvolvimento, Cloud, DevOps e IA aplicada.
 
-🧩 Principais Competências
+---
 
-Gestão & Liderança:
+## 🧩 Principais Competências
+
+**Gestão & Liderança:**
 Gestão de Projetos Ágeis (Scrum / Kanban) • Mentoria de Times • Planejamento Estratégico de TI • Cultura DevOps • Liderança Técnica
 
-Tecnologia & Arquitetura:
+**Tecnologia & Arquitetura:**
 Arquitetura de Software • Microsserviços • CI/CD • Cloud (AWS / Azure / GCP) • Segurança da Informação • APIs REST
 
-Desenvolvimento & IA:
+**Desenvolvimento & IA:**
 Python • Node.js • C# (.NET) • Vue.js • Laravel • SQL Server • PostgreSQL • Power BI • Automação com IA • LLM APIs (OpenAI, Gemini, Claude)
 
 ---
@@ -61,8 +59,8 @@ Python • Node.js • C# (.NET) • Vue.js • Laravel • SQL Server • Postg
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&theme=transparent"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satochi-yamamoto&layout=compact&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&hide_border=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satochi-yamamoto&layout=compact&hide_border=true&theme=default"/>
 </div>
 
 <div align="center">
@@ -77,12 +75,12 @@ Python • Node.js • C# (.NET) • Vue.js • Laravel • SQL Server • Postg
 ![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/php-05122A?style=for-the-badge&logo=php)&nbsp;
 ![C#](https://img.shields.io/badge/csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=nodedotjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 
 **Frameworks:**  
-![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=for-the-badge&logo=vue.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=for-the-badge&logo=vuedotjs)&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-05122A?style=for-the-badge&logo=laravel)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=for-the-badge&logo=dotnet)&nbsp;
 
@@ -94,7 +92,7 @@ Python • Node.js • C# (.NET) • Vue.js • Laravel • SQL Server • Postg
 **DevOps & Cloud:**  
 ![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github_actions-05122A?style=for-the-badge&logo=github)&nbsp;
-![AWS](https://img.shields.io/badge/aws-05122A?style=for-the-badge&logo=amazonaws)&nbsp;
+![AWS](https://img.shields.io/badge/aws-05122A?style=for-the-badge&logo=amazonwebservices)&nbsp;
 
 **IA & Automação:**  
 ![ChatGPT](https://img.shields.io/badge/chatgpt-05122A?style=for-the-badge&logo=openai)&nbsp;
