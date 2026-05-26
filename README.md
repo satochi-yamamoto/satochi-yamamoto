@@ -59,12 +59,8 @@ Python • Node.js • C# (.NET) • Vue.js • Laravel • SQL Server • Postg
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=satochi-yamamoto&show_icons=true&hide_border=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satochi-yamamoto&layout=compact&hide_border=true&theme=default"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satochi-yamamoto&theme=flat&column=7" alt="GitHub Trophies"/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="./github-metrics-languages.svg" alt="Linguagens mais usadas"/>
 </div>
 
 ---
